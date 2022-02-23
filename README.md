@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, AI, CV, Robotics
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML and CV projects 
-- 📫 How to reach me email at atomsengage@gmail.com
+- 📫 How to reach me atomsengageATgmail
 
 <!---
 atomsengage/atomsengage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
